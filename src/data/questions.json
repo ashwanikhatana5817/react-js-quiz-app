@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "correct": 1
+  },
+  {
+    "id": 2,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correct": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correct": 2
+  },
+  {
+    "id": 4,
+    "question": "Which programming language was created by Brendan Eich?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "correct": 2
+  },
+  {
+    "id": 5,
+    "question": "What year did World War II end?",
+    "options": ["1944", "1945", "1946", "1947"],
+    "correct": 1
+  },
+  {
+    "id": 6,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2
+  },
+  {
+    "id": 7,
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "question": "What is the smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "Liechtenstein", "San Marino"],
+    "correct": 1
+  },
+  {
+    "id": 10,
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+    "correct": 1
+  },
+  {
+    "id": 11,
+    "question": "What is the fastest land animal?",
+    "options": ["Lion", "Cheetah", "Leopard", "Tiger"],
+    "correct": 1
+  },
+  {
+    "id": 12,
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "correct": 0
+  },
+  {
+    "id": 14,
+    "question": "Which country is home to the Great Wall?",
+    "options": ["Japan", "China", "India", "Mongolia"],
+    "correct": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correct": 2
+  }
+]
